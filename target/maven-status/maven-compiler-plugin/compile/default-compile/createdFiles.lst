@@ -1,0 +1,6 @@
+bean\CalculationBean.class
+classes\Test.class
+com\mycompany\java_9\JakartaRestConfiguration.class
+controllers\CalculationController.class
+com\mycompany\java_9\resources\JakartaEE10Resource.class
+controllers\BeanMetadataReader.class
